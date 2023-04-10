@@ -1,0 +1,254 @@
+@media (max-width: 590px) {
+  .imagem {
+    position: absolute;
+    width: 590px;
+    height: 700px;
+  }
+  section {
+    width: 490px;
+  }
+}
+
+@media (max-width: 580px) {
+  section {
+    margin-right: 25px;
+  }
+}
+
+@media (max-width: 575px) {
+  section {
+    margin-right: 17px;
+  }
+}
+@media (max-width: 564px) {
+  header,
+  h1 {
+    padding: 20px;
+  }
+  section {
+    margin-right: 10px;
+  }
+}
+
+@media (max-width: 550px) {
+  .imagem {
+    position: absolute;
+    width: 550px;
+    height: 700px;
+  }
+  header,
+  h1 {
+    font-size: 40px;
+    padding: 20px;
+  }
+  section {
+    width: 425px;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 45px;
+  }
+}
+
+@media (max-width: 540px) {
+  section {
+    margin-right: 35px;
+  }
+}
+
+@media (max-width: 525px) {
+  section {
+    margin-right: 17px;
+  }
+}
+@media (max-width: 520px) {
+  header,
+  h1 {
+    font-size: 40px;
+    padding: 15px;
+  }
+  section {
+    width: 395px;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 30px;
+  }
+}
+@media (max-width: 514px) {
+  .imagem {
+    position: absolute;
+    width: 514px;
+    height: 700px;
+  }
+  section {
+    width: 395px;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 43px;
+  }
+}
+
+@media (max-width: 505px) {
+  section {
+    width: 395px;
+    font-size: 20px;
+    text-align: center;
+    margin-right: 40px;
+  }
+}
+@media (max-width: 495px) {
+  section {
+    margin-right: 25px;
+  }
+}
+@media (max-width: 485px) {
+  section {
+    margin-right: 10px;
+  }
+}
+@media (max-width: 480px) {
+  .imagem {
+    position: absolute;
+    width: 480px;
+    height: 700px;
+  }
+  section {
+    margin-right: 25px;
+  }
+}
+@media (max-width: 472px) {
+  section {
+    margin-right: 17px;
+  }
+}
+@media (max-width: 462px) {
+  section {
+    margin-right: 10px;
+  }
+}
+@media (max-width: 450px) {
+  .imagem {
+    position: absolute;
+    width: 455px;
+    height: 700px;
+  }
+  section {
+    margin-right: 10px;
+  }
+}
+
+@media (max-width: 440px) {
+  section {
+    margin-right: 0px;
+  }
+}
+@media (max-width: 430px) {
+  section {
+    width: 365px;
+    margin-right: 5px;
+  }
+  #txtn {
+    font-size: 18px;
+    text-align: center;
+    width: 140px;
+  }
+  #button {
+    margin-left: 48px;
+  }
+}
+@media (max-width: 427px) {
+  .imagem {
+    position: absolute;
+    width: 447px;
+    height: 700px;
+  }
+}
+@media (max-width: 419px) {
+  .imagem {
+    position: absolute;
+    width: 425px;
+    height: 700px;
+  }
+  section {
+    width: 330px;
+    margin-right: 25px;
+  }
+}
+
+@media (max-width: 410px) {
+  section {
+    margin-right: 15px;
+  }
+}
+@media (max-width: 397px) {
+  .imagem {
+    position: absolute;
+    width: 425px;
+    height: 710px;
+  }
+  section {
+    margin-right: 5px;
+  }
+}
+
+@media (max-width: 392px) {
+  .imagem {
+    position: absolute;
+    width: 425px;
+    height: 725px;
+  }
+  section {
+    margin-right: -4px;
+  }
+}
+@media (max-width: 385px) {
+  .imagem {
+    position: absolute;
+    width: 425px;
+    height: 740px;
+  }
+  section {
+    margin-right: -20px;
+    height: 450px;
+  }
+
+  select option,
+  #seltab {
+    padding: -5px;
+  }
+}
+@media (max-width: 375px) {
+  .imagem {
+    position: absolute;
+    width: 425px;
+    height: 750px;
+  }
+  section {
+    font-size: 22px;
+  }
+
+  select option,
+  #seltab {
+    font-size: 20px;
+  }
+}
+@media (max-width: 373px) {
+  .imagem {
+    position: absolute;
+    width: 425px;
+    height: 775px;
+  }
+}
+@media (max-width: 360px) {
+  .imagem {
+    position: absolute;
+    width: 425px;
+    height: 795px;
+  }
+  header,
+  h1 {
+    margin-left: 35px;
+  }
+  section {
+    margin-right: -35px;
+  }
+}
